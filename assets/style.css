@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.tagline {
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+#filters {
+    padding: 1rem;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#filters input[type="text"] {
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    padding: 0.25rem;
+}
+
+#filters label {
+    margin-right: 1rem;
+}
+
+#timeline {
+    padding: 1rem;
+}
+
+.event {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1rem;
+}
+
+.event h3 {
+    margin: 0;
+    cursor: pointer;
+}
+
+.event .date {
+    font-style: italic;
+    color: #555;
+}
+
+.event .details {
+    margin-top: 0.5rem;
+}
