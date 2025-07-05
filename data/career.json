@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Started Career at TechCorp",
+        "date": "1995",
+        "summary": "Joined TechCorp as a junior developer.",
+        "details": "Worked on early web applications using C and CGI scripts.",
+        "category": "Work"
+    },
+    {
+        "title": "Lead Engineer at WebSystems",
+        "date": "2001",
+        "summary": "Became lead engineer and managed a team of developers.",
+        "details": "Led the development of large scale e-commerce solutions.",
+        "category": "Work"
+    },
+    {
+        "title": "Published 'Scaling Software'",
+        "date": "2005",
+        "summary": "Released first technical book on scalable architectures.",
+        "details": "The book was well-received and led to numerous speaking engagements.",
+        "category": "Publication"
+    },
+    {
+        "title": "Consulting and Mentoring",
+        "date": "2010-2015",
+        "summary": "Helped multiple startups improve their software processes.",
+        "details": "Focused on agile methodologies and cloud migrations.",
+        "category": "Work"
+    },
+    {
+        "title": "Keynote at DevCon",
+        "date": "2018",
+        "summary": "Delivered a keynote on the future of DevOps.",
+        "details": "Talked about culture, tooling, and continuous delivery best practices.",
+        "category": "Speaking"
+    },
+    {
+        "title": "Open Source Contributions",
+        "date": "2022",
+        "summary": "Contributed to several open source projects on GitHub.",
+        "details": "Focused on improving documentation and adding CI pipelines.",
+        "category": "Open Source"
+    }
+]
